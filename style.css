@@ -1,0 +1,32 @@
+:root {
+    --font-family: "Roboto";
+}
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.layer {
+    background-color: #9b9696;
+    box-sizing: border-box;
+}
+
+.header-section {
+    display: flex;
+    flex-direction: row;
+    gap: 140px;
+}
+
+.title {
+    color: #96d440;
+    
+}
+
+.content-section {
+    display: flex;
+    flex-direction: row;
+}
